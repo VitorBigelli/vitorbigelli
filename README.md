@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align='center'> 
+<img src='https://i.ibb.co/dKdZGqD/logo.png' width=200 alt='Vitor Bigelli Logo' >
+</p>
+<p align='center'>
+JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
+</p>
 
-<!--
-**VitorBigelli/vitorbigelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'> 
+Hi, I'm Vitor!🤙
+</h3>
 
-Here are some ideas to get you started:
+<p align='center'>
+📍 Living in São Paulo, SP, Brazil 
+</p>
+<p align='center'>
+👨‍💻 Full-Stack Developer and Research Scientist at <strong>Nindoo AI</strong> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+🤖 AI Enthusiast, I believe in technology as a tool for building a better world  
+</p>
+
+<p align='center'>
+	<a href='https://www.linkedin.com/in/vitor-bigelli-559380150/'>
+		<img src='https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png' width=30 >
+	</a>
+	<a href='https://github.com/vitorbigelli'>
+		<img src='https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png' width=30 >
+	</a>
+	<a href='https://twitter.com/bigellivitor'>
+		<img src='https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png' width=30 >
+	</a>
+</p>
