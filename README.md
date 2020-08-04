@@ -17,7 +17,7 @@ Hi, I'm Vitor!🤙
 </p>
 
 <p align='center'>
-🤖 AI Enthusiast, I believe in technology as a tool for building a better world  
+Enthusiast of Artificial Intelligence and passionate about learning and teaching, I believe in technology as a tool to build a better world.
 </p>
 
 <p align='center'>
