@@ -8,7 +8,7 @@ JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kuber
 <h3 align='center'> 
 Hi, my name is Vitor!🤙
 </h3>
-<h5> I'm a Full-Stack Web Developer </h5>
+<h5 align='center'> I'm a Full-Stack Web Developer </h5>
 
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
