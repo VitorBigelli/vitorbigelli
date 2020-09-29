@@ -1,5 +1,5 @@
 <p align='center'> 
-<img src='https://i.ibb.co/ykbNPSb/logo.png' width=400 alt='Vitor Bigelli Logo' >
+<img src='./logo_black.png' width=400 alt='Vitor Bigelli Logo' >
 </p>
 <p align='center'>
 JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
