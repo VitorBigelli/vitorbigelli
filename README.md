@@ -6,14 +6,14 @@ JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kuber
 </p>
 
 <h3 align='center'> 
-Hi, my name is Vitor!🤙
+Hi, my name is Vitor!
 </h3>
 
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
 </p>
 <p align='center'>
-👨‍💻 Full-Stack Developer and Research Scientist at <strong>Nindoo AI</strong> 
+👨‍💻 Full-Stack Web Developer and Research Scientist at <strong>Nindoo AI</strong> 
 </p>
 
 <p align='center'>
