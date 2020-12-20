@@ -1,14 +1,11 @@
-<p align='center'> 
-<img src='./logo_black.jpg' width=250 alt='Vitor Bigelli Logo' >
-</p>
+<h1 align='center' border='none' > 
+Hi, my name is Vitor!
+</h1>
+<hr>
 <p align='center'>
 JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
 </p>
-
-<h3 align='center'> 
-Hi, my name is Vitor!
-</h3>
-
+<hr>
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
 </p>
