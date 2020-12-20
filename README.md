@@ -1,11 +1,11 @@
-<h1 align='center' border='none' > 
-Hi, my name is Vitor!
+<h1 align='center' style='border-bottom: none !important' > 
+Hi, my name is Vitor! 
 </h1>
-<hr>
 <p align='center'>
 JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
 </p>
-<hr>
+<br>
+<br>
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
 </p>
@@ -28,3 +28,9 @@ Enthusiast of Artificial Intelligence and passionate about learning and teaching
 		<img src='https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png' width=30 >
 	</a>
 </p>
+
+<style>
+	hr {
+		border-width: 1px;
+	}
+</style>
