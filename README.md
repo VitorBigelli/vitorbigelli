@@ -2,7 +2,7 @@
 Hi, my name is Vitor! 
 </h1>
 <p align='center'>
-JavaScript | HTML | CSS | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
+JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
 </p>
 <br>
 <br>
