@@ -28,9 +28,3 @@ Enthusiast of Artificial Intelligence and passionate about learning and teaching
 		<img src='https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png' width=30 >
 	</a>
 </p>
-
-<style>
-	hr {
-		border-width: 1px;
-	}
-</style>
