@@ -5,12 +5,11 @@ Hi, my name is Vitor!
 JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
 </p>
 <br>
-<br>
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
 </p>
 <p align='center'>
-👨‍💻 Full-Stack Web Developer and Research Scientist at <strong>Nindoo AI</strong> 
+👨‍💻 Software Engineer and Research Scientist at <strong>Nindoo AI</strong> 
 </p>
 
 <p align='center'>
