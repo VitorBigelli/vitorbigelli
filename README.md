@@ -1,19 +1,23 @@
 <h1 align='center' style='border-bottom: none !important' > 
 Hi, my name is Vitor! 
 </h1>
+
+<h4 align='center'> My skills: </h4> 
 <p align='center'>
 JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
 </p>
+<h4 align='center'> My interests: </h4> 
+<p align='center'> Artificial Intelligence | Blockchain | Internet of Things | User Experience | Product Design </p>
 <br>
 <p align='center'>
 📍 Living in São Paulo, SP, Brazil 
 </p>
 <p align='center'>
-👨‍💻 Software Engineer and Research Scientist at <strong>Nindoo AI</strong> 
+👨‍💻 Software Engineer and R&D Scientist at <strong>Nindoo AI</strong> 
 </p>
 
 <p align='center'>
-Enthusiast of Artificial Intelligence and passionate about learning and teaching, I believe in technology as the tool to build a better world.
+I'm passionate about learning and teaching and I believe in technology as the tool to build a better world.
 </p>
 
 <p align='center'>
