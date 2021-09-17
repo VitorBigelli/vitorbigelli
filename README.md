@@ -13,5 +13,7 @@ JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernete
 Artificial Intelligence | Blockchain | Internet of Things | User Experience | Product Design 
 
 ## :chart_with_upwards_trend: GitHub Stats
-![](https://github-readme-stats.vercel.app/api/?username=vitorbigelli&theme=algolia&layout=compact)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbigelli&theme=algolia&layout=compact)
+<div style="display:flex;">
+<img src="https://github-readme-stats.vercel.app/api/?username=vitorbigelli&theme=algolia&layout=compact" alt="Github stats" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbigelli&theme=algolia&layout=compact" alt="Github stats" height="150px"> 
+</div>
