@@ -5,7 +5,7 @@
 I'm passionate about learning and teaching and I believe in technology as the main tool for building a better world.  
 
 ## :hammer: My skills: </h4> 
-JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes
+JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker 
 
 ## :dart: My interests:
 Artificial Intelligence | Blockchain | Internet of Things | User Experience | Product Design 
