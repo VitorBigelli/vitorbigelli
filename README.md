@@ -13,5 +13,4 @@ Artificial Intelligence | Blockchain | Internet of Things | User Experience | Pr
 ## :chart_with_upwards_trend: GitHub Stats
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api/?username=vitorbigelli&theme=algolia&layout=compact" alt="Github stats" height="150px">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbigelli&theme=algolia&layout=compact" alt="Github stats" height="150px"> 
 </div>
