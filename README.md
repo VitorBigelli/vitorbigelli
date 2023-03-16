@@ -8,5 +8,5 @@ I'm passionate about learning and teaching and I believe in technology as the ma
 JavaScript | Python | ReactJS | React Native | NodeJS | Git | Docker | Kubernetes 
 
 ## :dart: My interests:
-Artificial Intelligence | Data Science | Software Architecture | Engineering | User Experience | Product Design 
+Artificial Intelligence | MLOps | Software Engineering | User Experience | Product Design 
 
